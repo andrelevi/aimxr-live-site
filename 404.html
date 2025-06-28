@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css2?family=Radjhana:wght@400;700&display=swap" rel="stylesheet">
+    <title>Aim XR - Free Multiplayer VR Shooter for Meta Quest</title>
+    <meta name="description" content="Official website of Aim XR, the free multiplayer VR shooter game for Meta Quest." />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EJJHJK8T06"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-EJJHJK8T06');
+    </script>
+
+    <!-- 
+      START: Single Page Apps for GitHub Pages
+      This script checks if a redirect is needed and fixes the URL.
+      https://github.com/rafgraph/spa-github-pages
+    -->
+    <script>
+      (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
+    <!-- END: Single Page Apps for GitHub Pages -->
+
+  </head>
+  <body>
+    <!-- This div is where your React app will mount. -->
+    <div id="root"></div>
+
+    <!-- 
+      This script tag is a placeholder for your source code.
+      Vite's build process will replace this with the correct path to your
+      compiled JavaScript in the final `dist/index.html`. For this 404.html
+      to work, you need to ensure your deployment process copies the final
+      built `dist/index.html` to `dist/404.html`.
+      
+      A common way to do this is to add a post-build script:
+      In package.json:
+      "scripts": {
+        "build": "vite build && cp dist/index.html dist/404.html"
+      }
+      If you cannot do this, you can leave the script tag below, but it's
+      less robust.
+    -->
+    <script type="module" src="/src/index.tsx"></script>
+  </body>
+</html>
