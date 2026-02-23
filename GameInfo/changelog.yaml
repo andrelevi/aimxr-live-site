@@ -1,6 +1,18 @@
 
 "0.7.0":
-  - 'Users can now create private online servers'
-  - 'New UI design'
-  - 'Improved magazine handling on servers with high ping'
-  - 'Nerfed Famas rate-of-fire'
+  - section: "New Features"
+    items:
+      - 'New Skins Store where players can browse and acquire weapon skins'
+      - 'Earnable skins via leveling Warbonds (permanent battle passes)'
+      - 'Players can shoot grenades to explode them mid-air'
+      - 'Users can now create private online servers'
+      - 'In player-created servers, players can be admins for hosting their own private matches and tournaments'
+      - 'New UI design'
+  - section: "Gun Balance Changes"
+    items:
+      - 'Buffed AK fire rate'
+      - 'Nerfed Famas fire rate'
+      - 'Buffed MP5'
+  - section: "Improvements & Fixes"
+    items:
+      - 'Improved magazine handling on servers with high ping'
