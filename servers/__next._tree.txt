@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/d9600e1543c8b5f9.css","style"]
+:HL["/_next/static/chunks/2d844a383a8b703c.css","style"]
 :HC["/",""]
 :HL["https://fonts.googleapis.com/css2?family=Radjhana:wght@400;700&display=swap","style"]
-0:{"buildId":"TI158SodtibZ4ySuu_Drf","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"servers","paramType":null,"paramKey":"servers","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"XZb0vL__9GV46Vc2KYGsM","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"servers","paramType":null,"paramKey":"servers","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
