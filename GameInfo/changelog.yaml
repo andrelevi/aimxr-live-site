@@ -1,12 +1,13 @@
 
 "0.7.0":
   - section: "New Features"
+    highlight: 'Create your own private servers with full admin controls — host private matches and tournaments on your terms'
     items:
       - 'New Skins Store where players can browse and acquire weapon skins'
       - 'Earnable skins via leveling Warbonds (permanent battle passes)'
       - 'Players can shoot grenades to explode them mid-air'
-      - 'Users can now create private online servers'
-      - 'In player-created servers, players can be admins for hosting their own private matches and tournaments'
+      - 'Improved friend list — see if friends are in the Shooting Range (Home) or playing singleplayer'
+      - 'Join a friend''s server directly from the Meta Dashboard for Friends'
       - 'New UI design'
   - section: "Gun Balance Changes"
     items:
