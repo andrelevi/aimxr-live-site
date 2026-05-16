@@ -1,0 +1,339 @@
+Items:
+  - Sku: skin_wpn_590a1_butterfly
+    Name: "590A1 | Butterfly"
+  - Sku: skin_wpn_590a1_cloud
+    Name: "590A1 | Cloud"
+  - Sku: skin_wpn_590a1_crackwall
+    Name: "590A1 | CrackWall"
+  - Sku: skin_wpn_590a1_default
+    Name: "590A1 | Default"
+  - Sku: skin_wpn_590a1_eyes
+    Name: "590A1 | Eyes"
+  - Sku: skin_wpn_590a1_graffiti
+    Name: "590A1 | Graffiti"
+  - Sku: skin_wpn_590a1_gray
+    Name: "590A1 | Gray"
+  - Sku: skin_wpn_590a1_neon
+    Name: "590A1 | Neon"
+  - Sku: skin_wpn_590a1_purplesky
+    Name: "590A1 | Purplesky"
+  - Sku: skin_wpn_590a1_redmoon
+    Name: "590A1 | Redmoon"
+  - Sku: skin_wpn_590a1_reptile
+    Name: "590A1 | Reptile"
+  - Sku: skin_wpn_590a1_smoke
+    Name: "590A1 | Smoke"
+  - Sku: skin_wpn_590a1_tiger
+    Name: "590A1 | Tiger"
+  - Sku: skin_wpn_590a1_wall
+    Name: "590A1 | Wall"
+  - Sku: skin_wpn_590a1_whitezebra
+    Name: "590A1 | WhiteZebra"
+  - Sku: skin_wpn_590a1_yellow
+    Name: "590A1 | Yellow"
+  - Sku: skin_wpn_590a1_yellowwall
+    Name: "590A1 | YellowWall"
+  - Sku: skin_wpn_ak_astral
+    Name: "AK47 | Astral"
+  - Sku: skin_wpn_ak_beware
+    Name: "AK47 | Beware"
+  - Sku: skin_wpn_ak_bluecamo
+    Name: "AK47 | BlueCamo"
+  - Sku: skin_wpn_ak_default
+    Name: "AK47 | Default"
+  - Sku: skin_wpn_ak_dragon
+    Name: "AK47 | Dragon"
+  - Sku: skin_wpn_ak_emerald
+    Name: "AK47 | Emerald"
+  - Sku: skin_wpn_ak_flower
+    Name: "AK47 | Flower"
+  - Sku: skin_wpn_ak_green
+    Name: "AK47 | Green"
+  - Sku: skin_wpn_ak_goldluxury
+    Name: "AK47 | Luxury Gold"
+  - Sku: skin_wpn_ak_neondragon
+    Name: "AK47 | NeonDragon"
+  - Sku: skin_wpn_ak_pinkwall
+    Name: "AK47 | PinkWall"
+  - Sku: skin_wpn_ak_purple
+    Name: "AK47 | Purple"
+  - Sku: skin_wpn_ak_queen
+    Name: "AK47 | Queen"
+  - Sku: skin_wpn_ak_rainbow
+    Name: "AK47 | Rainbow"
+  - Sku: skin_wpn_ak_skullarmy
+    Name: "AK47 | SkullArmy"
+  - Sku: skin_wpn_ak_skulls
+    Name: "AK47 | Skulls"
+  - Sku: skin_wpn_ak_spray
+    Name: "AK47 | Spray"
+  - Sku: skin_wpn_ak_teal
+    Name: "AK47 | Teal"
+  - Sku: skin_wpn_ak_thunderbird
+    Name: "AK47 | Thunderbird"
+  - Sku: skin_wpn_ak_water
+    Name: "AK47 | Water"
+  - Sku: skin_wpn_ak_xx
+    Name: "AK47 | XX"
+  - Sku: skin_wpn_ak_yellow
+    Name: "AK47 | Yellow"
+  - Sku: skin_wpn_ak_yellowabstract
+    Name: "AK47 | YellowAbstract"
+  - Sku: skin_wpn_ap85_default
+    Name: "AP85 | Default"
+  - Sku: skin_wpn_ap85_jawbreaker
+    Name: "AP85 | Jawbreaker"
+  - Sku: skin_wpn_aug_default
+    Name: "AUG | Default"
+  - Sku: skin_wpn_aug_monster
+    Name: "AUG | Monster"
+  - Sku: skin_wpn_aug_star
+    Name: "AUG | Star"
+  - Sku: skin_wpn_aug_women
+    Name: "AUG | Women"
+  - Sku: skin_wpn_awm_abstract
+    Name: "AWM | Abstract"
+  - Sku: skin_wpn_awm_americanflag
+    Name: "AWM | AmericanFlag"
+  - Sku: skin_wpn_awm_bluezebra
+    Name: "AWM | BlueZebra"
+  - Sku: skin_wpn_awm_camowhite
+    Name: "AWM | CamoWhite"
+  - Sku: skin_wpn_awm_colorful
+    Name: "AWM | Colorful"
+  - Sku: skin_wpn_awm_coral
+    Name: "AWM | Coral"
+  - Sku: skin_wpn_awm_default
+    Name: "AWM | Default"
+  - Sku: skin_wpn_awm_grayzebra
+    Name: "AWM | GrayZebra"
+  - Sku: skin_wpn_awm_knight
+    Name: "AWM | Knight"
+  - Sku: skin_wpn_awm_marble
+    Name: "AWM | Marble"
+  - Sku: skin_wpn_awm_queen
+    Name: "AWM | Queen"
+  - Sku: skin_wpn_awm_reddog
+    Name: "AWM | RedDog"
+  - Sku: skin_wpn_awm_sakura
+    Name: "AWM | Sakura"
+  - Sku: skin_wpn_awm_samurai
+    Name: "AWM | Samurai"
+  - Sku: skin_wpn_awm_skull
+    Name: "AWM | Skull"
+  - Sku: skin_wpn_awm_vector
+    Name: "AWM | Vector"
+  - Sku: skin_wpn_deagle_blackandgold
+    Name: "Deagle | BlackAndGold"
+  - Sku: skin_wpn_deagle_blueswirls
+    Name: "Deagle | BlueSwirls"
+  - Sku: skin_wpn_deagle_default
+    Name: "Deagle | Default"
+  - Sku: skin_wpn_deagle_fauna
+    Name: "Deagle | Fauna"
+  - Sku: skin_wpn_deagle_ghosts
+    Name: "Deagle | Ghosts"
+  - Sku: skin_wpn_deagle_rainbow
+    Name: "Deagle | Rainbow"
+  - Sku: skin_wpn_deagle_skulls
+    Name: "Deagle | Skulls"
+  - Sku: skin_wpn_deagle_slimes
+    Name: "Deagle | Slimes"
+  - Sku: skin_wpn_deagle_spring
+    Name: "Deagle | Spring"
+  - Sku: skin_wpn_deagle_stripes
+    Name: "Deagle | Stripes"
+  - Sku: skin_wpn_eder22_cybercat
+    Name: "Eder22 | CyberCat"
+  - Sku: skin_wpn_eder22_default
+    Name: "Eder22 | Default"
+  - Sku: skin_wpn_eder22_glitch
+    Name: "Eder22 | Glitch"
+  - Sku: skin_wpn_eder22_gold
+    Name: "Eder22 | Gold"
+  - Sku: skin_wpn_eder22_grizzly
+    Name: "Eder22 | Grizzly"
+  - Sku: skin_wpn_eder22_stark
+    Name: "Eder22 | Stark"
+  - Sku: skin_wpn_eder22_tiger
+    Name: "Eder22 | Tiger"
+  - Sku: skin_wpn_eder22_xo
+    Name: "Eder22 | XO"
+  - Sku: skin_wpn_famas_arrow
+    Name: "Famas | Arrow"
+  - Sku: skin_wpn_famas_blackgreen
+    Name: "Famas | BlackGreen"
+  - Sku: skin_wpn_famas_cowprint
+    Name: "Famas | CowPrint"
+  - Sku: skin_wpn_famas_crown
+    Name: "Famas | Crown"
+  - Sku: skin_wpn_famas_default
+    Name: "Famas | Default"
+  - Sku: skin_wpn_famas_doodle
+    Name: "Famas | Doodle"
+  - Sku: skin_wpn_famas_graffiti
+    Name: "Famas | Graffiti"
+  - Sku: skin_wpn_famas_graffitiwall
+    Name: "Famas | GraffitiWall"
+  - Sku: skin_wpn_famas_killer
+    Name: "Famas | Killer"
+  - Sku: skin_wpn_famas_letter
+    Name: "Famas | Letter"
+  - Sku: skin_wpn_famas_panel
+    Name: "Famas | Panel"
+  - Sku: skin_wpn_famas_purple
+    Name: "Famas | Purple"
+  - Sku: skin_wpn_famas_rock
+    Name: "Famas | Rock"
+  - Sku: skin_wpn_famas_usflag
+    Name: "Famas | USFlag"
+  - Sku: skin_wpn_famas_yellowdot
+    Name: "Famas | YellowDot"
+  - Sku: skin_gren_flash_default
+    Name: "Flash Bang | Default"
+  - Sku: skin_gren_flash_graffiti
+    Name: "FlashBang | Graffiti"
+  - Sku: skin_gren_frag_default
+    Name: "Frag Grenade | Default"
+  - Sku: skin_gren_frag_yellow
+    Name: "FragGrenade | Yellow"
+  - Sku: skin_wpn_m9_chrome
+    Name: "M9 | Chrome"
+  - Sku: skin_wpn_m9_default
+    Name: "M9 | Default"
+  - Sku: skin_wpn_mac10_aura
+    Name: "MAC10 | Aura"
+  - Sku: skin_wpn_mac10_butterfly
+    Name: "MAC10 | Butterfly"
+  - Sku: skin_wpn_mac10_camowhite
+    Name: "MAC10 | CamoWhite"
+  - Sku: skin_wpn_mac10_default
+    Name: "MAC10 | Default"
+  - Sku: skin_wpn_mac10_kanji
+    Name: "MAC10 | Kanji"
+  - Sku: skin_wpn_mac10_lion
+    Name: "MAC10 | Lion"
+  - Sku: skin_wpn_mac10_neonmushroom
+    Name: "MAC10 | NeonMushroom"
+  - Sku: skin_wpn_mac10_panel
+    Name: "MAC10 | Panel"
+  - Sku: skin_wpn_mac10_popshock
+    Name: "MAC10 | PopShock"
+  - Sku: skin_wpn_mac10_skull
+    Name: "MAC10 | Skull"
+  - Sku: skin_wpn_mac10_usflag
+    Name: "MAC10 | USFlag"
+  - Sku: skin_wpn_mac10_vivid
+    Name: "MAC10 | Vivid"
+  - Sku: skin_wpn_mac10_watermelon
+    Name: "MAC10 | Watermelon"
+  - Sku: skin_wpn_mac10_zebra
+    Name: "MAC10 | Zebra"
+  - Sku: skin_wpn_mm4a1_bear
+    Name: "MM4A1 | Bear"
+  - Sku: skin_wpn_mm4a1_blackandgold
+    Name: "MM4A1 | BlackAndGold"
+  - Sku: skin_wpn_mm4a1_blackorange
+    Name: "MM4A1 | BlackOrange"
+  - Sku: skin_wpn_mm4a1_boy
+    Name: "MM4A1 | Boy"
+  - Sku: skin_wpn_mm4a1_bluecamo
+    Name: "MM4A1 | CamoBlue"
+  - Sku: skin_wpn_mm4a1_graycamo
+    Name: "MM4A1 | CamoSquares"
+  - Sku: skin_wpn_mm4a1_cloud
+    Name: "MM4A1 | Cloud"
+  - Sku: skin_wpn_mm4a1_comic
+    Name: "MM4A1 | Comic"
+  - Sku: skin_wpn_mm4a1_crowns
+    Name: "MM4A1 | Crowns"
+  - Sku: skin_wpn_mm4a1_cutemonster
+    Name: "MM4A1 | CuteMonster"
+  - Sku: skin_wpn_mm4a1_default
+    Name: "MM4A1 | Default"
+  - Sku: skin_wpn_mm4a1_demon
+    Name: "MM4A1 | Demon"
+  - Sku: skin_wpn_mm4a1_dog
+    Name: "MM4A1 | Dog"
+  - Sku: skin_wpn_mm4a1_galaxy
+    Name: "MM4A1 | Galaxy"
+  - Sku: skin_wpn_mm4a1_green
+    Name: "MM4A1 | Green"
+  - Sku: skin_wpn_mm4a1_ice
+    Name: "MM4A1 | Ice"
+  - Sku: skin_wpn_mm4a1_porcelain
+    Name: "MM4A1 | Porcelain"
+  - Sku: skin_wpn_mm4a1_purple
+    Name: "MM4A1 | Purple"
+  - Sku: skin_wpn_mm4a1_red
+    Name: "MM4A1 | Red"
+  - Sku: skin_wpn_mm4a1_reddragon
+    Name: "MM4A1 | RedDragon"
+  - Sku: skin_wpn_mm4a1_sakura
+    Name: "MM4A1 | Sakura"
+  - Sku: skin_wpn_mm4a1_samurai
+    Name: "MM4A1 | Samurai"
+  - Sku: skin_wpn_mm4a1_skull
+    Name: "MM4A1 | Skull"
+  - Sku: skin_wpn_mm4a1_strike
+    Name: "MM4A1 | Strike"
+  - Sku: skin_wpn_mm4a1_sunset
+    Name: "MM4A1 | Sunset"
+  - Sku: skin_wpn_mm4a1_tigerprint
+    Name: "MM4A1 | TigerPrint"
+  - Sku: skin_wpn_mm4a1_usflag
+    Name: "MM4A1 | USFlag"
+  - Sku: skin_wpn_mm4a1_water
+    Name: "MM4A1 | Water"
+  - Sku: skin_wpn_mm4a1_waves
+    Name: "MM4A1 | Waves"
+  - Sku: skin_gren_molotov_default
+    Name: "Molotov | Default"
+  - Sku: skin_gren_molotov_graffiti
+    Name: "Molotov | Graffiti"
+  - Sku: skin_wpn_mp5_aiyika
+    Name: "MP5 | Aiyika"
+  - Sku: skin_wpn_mp5_default
+    Name: "MP5 | Default"
+  - Sku: skin_wpn_mp5_fire
+    Name: "MP5 | Fire"
+  - Sku: skin_wpn_mp5_ghost
+    Name: "MP5 | Ghost"
+  - Sku: skin_wpn_mp5_gold
+    Name: "MP5 | Gold"
+  - Sku: skin_wpn_mp5_mechanics
+    Name: "MP5 | Mechanics"
+  - Sku: skin_wpn_mp5_scrawl
+    Name: "MP5 | Scrawl"
+  - Sku: skin_wpn_mp5_toxicgrin
+    Name: "MP5 | ToxicGrin"
+  - Sku: skin_wpn_p350_default
+    Name: "P350 | Default"
+  - Sku: skin_wpn_r90_arrows
+    Name: "R90 | Arrows"
+  - Sku: skin_wpn_r90_building
+    Name: "R90 | Building"
+  - Sku: skin_wpn_r90_carttongraffiti
+    Name: "R90 | CarttonGraffiti"
+  - Sku: skin_wpn_r90_cloud
+    Name: "R90 | Cloud"
+  - Sku: skin_wpn_r90_creamzebra
+    Name: "R90 | CreamZebra"
+  - Sku: skin_wpn_r90_default
+    Name: "R90 | Default"
+  - Sku: skin_wpn_r90_fire
+    Name: "R90 | Fire"
+  - Sku: skin_wpn_r90_graffiti
+    Name: "R90 | Graffiti"
+  - Sku: skin_wpn_r90_paint
+    Name: "R90 | Paint"
+  - Sku: skin_wpn_r90_paper
+    Name: "R90 | Paper"
+  - Sku: skin_wpn_r90_redblue
+    Name: "R90 | RedBlue"
+  - Sku: skin_wpn_r90_skull
+    Name: "R90 | Skull"
+  - Sku: skin_wpn_r90_usflag
+    Name: "R90 | USFlag"
+  - Sku: skin_wpn_tec9_default
+    Name: "TEC9 | Default"
