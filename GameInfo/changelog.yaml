@@ -17,3 +17,87 @@
   - section: "Improvements & Fixes"
     items:
       - 'Improved magazine handling on servers with high ping'
+
+"0.7.1":
+  - 'Famas fire rate increased'
+
+"0.7.2":
+  - 'Suppressed weapons now have their own Shooting Range leaderboards'
+  - 'Fixed bots dry-firing in Magazines Only mode'
+  - 'Fixed a crash when toggling bot difficulty'
+  - 'General stability fixes'
+
+"0.7.3":
+  - 'New settings: Texture Resolution and mic Background Sound Removal'
+  - 'Bots now step aside when human players fill up a team'
+  - 'Voice chat echo reduced'
+  - 'Performance improvements — fewer micro-stutters'
+
+"0.7.4":
+  - 'Weapon skins load faster and use less memory'
+
+"0.8.0":
+  - section: "Network Overhaul"
+    highlight: 'Multiplayer netcode rebuilt from the ground up — smoother gameplay and much lower bandwidth, especially in full lobbies'
+    items:
+      - 'Fixed the teleport glitch when respawning'
+      - 'Fixed other players'' upper bodies appearing twisted'
+      - 'Thrown grenades now keep flying if the thrower dies'
+      - 'Shooting a grenade out of the air now credits you for its kills'
+      - 'Friendly fire defaults to off when creating a private server'
+      - 'Improved lighting on Aim, Container, and Gallery'
+
+"0.8.2 - 0.8.5":
+  - 'You can no longer hit yourself with your own bullets when friendly fire is off'
+  - 'Hit effects no longer show on teammates when friendly fire is off'
+  - 'Dropped weapons no longer teleport to the middle of the map when a player dies'
+  - 'Leaving a casual public server no longer flags you as a leaver'
+  - 'Announcer no longer repeats the game mode every time you pick a side'
+  - 'Loading screen sound is quieter'
+
+"0.8.6 - 0.8.8":
+  - 'MP5: reduced recoil on the first two shots'
+  - 'Servers on your local network now appear at the top of the server list'
+  - 'Fixed items occasionally floating or frozen in the wrong spot for other players'
+  - 'Fixed a stutter when aiming through a scope for the first time'
+  - 'Fixed Shooting Range leaderboard scrolling'
+  - 'Smoother frame rate around other players'
+
+"0.8.9":
+  - 'Grenade pull-rings are now mirrored for left-handed players'
+  - 'Fixed hands stuck in a death pose after respawning'
+  - 'Post-match map voting is more reliable, with proper labels and mode badges'
+  - 'Fixed the scoreboard profile card appearing tilted'
+  - 'Brief connection drops no longer kick you as quickly, and you''ll now see why you were disconnected'
+
+"0.8.10":
+  - 'Join servers directly by IP address from the room-code box'
+  - 'Server admins can now grant admin to other players from the in-game admin panel'
+  - 'Voice chat ear-balance sliders are back in Settings'
+  - 'Disconnecting during matchmade warm-up no longer counts as leaving the match'
+  - 'Fixed controller vibration sometimes getting stuck on'
+
+"0.8.11":
+  - 'Frontier: fixed house colors and improved lighting'
+  - 'Fixed the wrong skin showing on weapons in restricted game modes'
+  - 'Buy menu no longer lets you pick guns that aren''t allowed'
+  - 'Fixed magazines turning invisible when thrown'
+
+"0.8.12":
+  - 'Fixed black screen when launching the game offline'
+  - 'Your equipped weapon skins now restore automatically after a fresh install'
+  - 'Fixed FAMAS and TEC9 magazine visual glitches'
+
+"0.8.13":
+  - 'New scoreboard buttons: Mute All / Unmute All'
+  - 'Players you''ve muted no longer show up on the speakers display'
+  - 'Gunfight: rejoining after halftime now puts you back on the correct side'
+  - 'Scoreboard voice indicators now respond with less delay'
+
+"0.8.14":
+  - 'New poster board in the Shooting Range — watch it for news and community events'
+  - 'Fixed force-grab sometimes leaving items frozen in place'
+
+"0.8.15":
+  - 'Fixed jumping feeling unreliable on stairs, boxes, and ledges'
+  - 'CPU optimizations'
