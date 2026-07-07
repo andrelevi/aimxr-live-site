@@ -101,3 +101,22 @@
 "0.8.15":
   - 'Fixed jumping feeling unreliable on stairs, boxes, and ledges'
   - 'CPU optimizations'
+
+"0.8.16":
+  - 'Enhanced wrist display — now shows team score, time remaining, and your kills'
+
+"0.9.0":
+  - section: "Netcode & Servers"
+    highlight: 'Netcode rewritten for better hit registration'
+    items:
+      - 'Private servers now available in new regions: Central Europe, Oceania, Asia (Singapore), Brazil, Japan, and India'
+      - 'Servers now spawn dynamically as needed in all main regions — no more running out of servers in Europe and US Central'
+  - section: "Gun Balance Changes"
+    items:
+      - 'Buffed MP5, MAC10, and P90 — slight recoil reductions and less damage drop-off on long-range shots'
+  - section: "Improvements & Fixes"
+    items:
+      - 'Fixed equipment not dropping properly when a player is killed'
+      - 'Fixed players sometimes not having enough time to connect to a matchmaking server'
+      - 'You''re now properly warned that leaving a matchmade match will cost you karma'
+      - 'New players are now instructed to open the main menu in the Shooting Range to find the server list'
