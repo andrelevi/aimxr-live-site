@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/84d69b4cf67a38b5.css","style"]
+:HL["/_next/static/chunks/26b5222a18d49805.css","style"]
 :HC["/",""]
 :HL["/aimxr-web-assets/maps/map_shooting_range_thumb.webp","image"]
-0:{"buildId":"lNDKrQ9zRTm1JVgqPHbcY","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"rankings","paramType":null,"paramKey":"rankings","hasRuntimePrefetch":false,"slots":{"children":{"name":"shooting-range","paramType":null,"paramKey":"shooting-range","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"k6s-1gX3HTCtoqLl14_Wi","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"rankings","paramType":null,"paramKey":"rankings","hasRuntimePrefetch":false,"slots":{"children":{"name":"shooting-range","paramType":null,"paramKey":"shooting-range","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
