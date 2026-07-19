@@ -120,3 +120,24 @@
       - 'Fixed players sometimes not having enough time to connect to a matchmaking server'
       - 'You''re now properly warned that leaving a matchmade match will cost you karma'
       - 'New players are now instructed to open the main menu in the Shooting Range to find the server list'
+
+"0.9.1":
+  - 'Fixed a bug where players got "sunk" into the ground and had to jump to get out'
+  - 'Buy menu now shows the correct skin icon for suppressed weapons'
+  - 'Removed the false karma warning when leaving after a match already ended'
+  - 'Fixed some memory leaks on clients and game servers'
+
+"0.9.2":
+  - 'Private servers now available in two new regions: Israel and South Africa'
+  - 'New WARBONDS tab in the main menu — browse and claim your warbond rewards anytime'
+  - 'Default private server bot count to 8 per team instead of 0, can still be adjusted as needed'
+  - 'Let users know that while a requested server boots up, you can keep playing on other servers — you''ll be transferred automatically when it''s ready'
+
+"0.9.3":
+  - 'Improved fast magazine reloads to be more reliable'
+  - 'Post-match voting simplified — one GUNFIGHT option instead of three separate variants'
+  - 'Fixed Gunfight matches occasionally freezing at the start of a round'
+  - 'Fixed players respawning on top of each other at Gunfight round starts'
+  - 'Fixed "Server is full" errors when joining a server that showed open slots'
+  - 'Weapon skins optimized — around 450MB smaller and faster to equip'
+  - 'Fixed the death screen showing the wrong weapon skin for your killer'
