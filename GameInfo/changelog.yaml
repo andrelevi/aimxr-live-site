@@ -141,3 +141,19 @@
   - 'Fixed "Server is full" errors when joining a server that showed open slots'
   - 'Weapon skins optimized — around 450MB smaller and faster to equip'
   - 'Fixed the death screen showing the wrong weapon skin for your killer'
+
+"0.9.4":
+  - section: "Ranked Matchmaking"
+    highlight: 'Ranked now runs in monthly seasons — climb the leaderboard, win credit prizes, and start fresh each month. Season 1 ends August 1st'
+    items:
+      - 'Top 3 finishers each season win 2500 / 1500 / 1000 credits'
+      - 'Past seasons are archived on the website with a podium of winners'
+      - 'Ranked queue now requires account level 3'
+      - 'Matchmaking now measures your real ping to each region and picks the best server location for your match'
+  - section: "Improvements & Fixes"
+    items:
+      - 'Disable shadows and dynamic lighting by default for Quest 3 and Quest Pro'
+      - 'Smoother combat — reduced hitches from grenades, explosions, and player animations'
+      - 'Raised wrist stats display higher'
+      - 'Assists now count toward your stats'
+      - 'Fixed the friend list INFO panel opening blank'
