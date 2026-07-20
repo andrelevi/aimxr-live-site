@@ -155,5 +155,4 @@
       - 'Disable shadows and dynamic lighting by default for Quest 3 and Quest Pro'
       - 'Smoother combat — reduced hitches from grenades, explosions, and player animations'
       - 'Raised wrist stats display higher'
-      - 'Assists now count toward your stats'
-      - 'Fixed the friend list INFO panel opening blank'
+      - 'Fixed not being able to see full server info for a friend in a Ranked match'
