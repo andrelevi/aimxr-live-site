@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/84e35a8548790a2a.css","style"]
+:HL["/_next/static/chunks/886d797070ac7a40.css","style"]
 :HC["/",""]
-0:{"buildId":"uylTYLqxyV4pi41thqznw","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"tournaments","paramType":null,"paramKey":"tournaments","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"4HIMdqe3vjdGHfEdSIvCd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"tournaments","paramType":null,"paramKey":"tournaments","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
