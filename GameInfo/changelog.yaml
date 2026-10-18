@@ -156,3 +156,49 @@
       - 'Smoother combat — reduced hitches from grenades, explosions, and player animations'
       - 'Raised wrist stats display higher'
       - 'Fixed not being able to see full server info for a friend in a Ranked match'
+
+"0.9.5":
+  - 'Fixed magazines sometimes showing the wrong ammo count after quick reloads'
+  - 'Fixed molotov fire sounding loud from anywhere on the map'
+  - 'Fixed weapons briefly showing the wrong skin when they spawn'
+
+"0.9.6":
+  - 'Fixed friend chat not scrolling and jumping back to old messages'
+  - 'Fixed controls not working when matchmaking found a match while you were in the tutorial'
+  - 'When support replies to your ticket, opening the menu now takes you straight to it'
+
+"0.9.7":
+  - 'Fixed menu tabs sometimes becoming unresponsive'
+  - 'Fixed Ranked matches being cancelled while players were still loading in'
+
+"0.9.8":
+  - 'Fixed frozen "ghost" players staying in the match after they disconnected'
+  - 'Fixed hearing the enemy team''s voice chat in Ranked until halftime'
+  - 'Fixed profile pictures missing on the end-of-match awards'
+  - 'Fixed the Headshot Announcer setting showing the wrong value'
+
+"0.9.9":
+  - 'Fixed Ranked matches being cancelled when a player was reconnecting or still loading'
+  - 'Fixed being put on the wrong team when rejoining a Ranked match'
+  - 'Fixed flashbang skins being invisible in the Shooting Range'
+  - 'Shooting Range calibration buttons now need a hold to confirm, so you can''t start them by accident'
+
+"0.9.10":
+  - section: "Fair Play"
+    highlight: 'New server-side anti-cheat catches flying, damage exploits and fire-rate hacks'
+    items:
+      - 'New AIM XR rules screen before your first multiplayer match'
+      - 'If you are muted or banned, you are told the reason, and you can see the evidence in the new HUB > Account Status page'
+  - section: "Server List"
+    items:
+      - 'New "Join when a slot opens" checkbox on full servers: you join automatically as soon as a slot frees up'
+  - section: "Improvements & Fixes"
+    items:
+      - 'New option to mute everyone except your friends, from the scoreboard or automatically in the audio settings'
+      - 'Better performance on Quest 2, and the menu uses less power while you wait in the matchmaking queue'
+      - 'Fixed your Shadows and quality settings resetting when you came back to the game'
+      - 'Fixed magazines sometimes not finishing insertion'
+
+"0.9.11":
+  - '"Join when a slot opens" now keeps waiting while you play on other servers and moves you over when the slot opens'
+  - 'The mute message now shows the reason and where to find the details'
