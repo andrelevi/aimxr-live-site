@@ -185,7 +185,6 @@
 
 "0.9.10":
   - section: "Fair Play"
-    highlight: 'New server-side anti-cheat catches flying, damage exploits and fire-rate hacks'
     items:
       - 'New AIM XR rules screen before your first multiplayer match'
       - 'If you are muted or banned, you are told the reason, and you can see the evidence in the new HUB > Account Status page'
