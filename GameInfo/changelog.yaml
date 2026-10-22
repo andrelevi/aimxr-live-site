@@ -214,3 +214,8 @@
     items:
       - 'Bots named after top players now use the skin that player has equipped on their favorite weapon'
       - 'New loading screen tips with pictures'
+
+"0.9.13":
+  - text: 'Fixed being unable to climb things you could climb before'
+    sub:
+      - 'Like the rocks in Frontier'
