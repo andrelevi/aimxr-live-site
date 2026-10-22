@@ -205,16 +205,12 @@
 "0.9.12":
   - section: "Profile Privacy"
     highlight: 'Choose who can see your level, stats and badges: Everyone, Friends only or Only me'
+    nestItems: true
     items:
       - 'Find it in HUB > Self > Settings, under "Who Can See My Level, Stats and Badges"'
       - 'Only me hides your level, stats, badges and match history from other players, on the Hub and in game'
       - 'Friends only shows them to your Meta friends only, including your level in game'
-      - 'Your name and profile picture are always shown, your Elo still shows in matches, and you stay on the leaderboards you qualify for'
-      - 'Profile settings now save as soon as you change them'
   - section: "Improvements & Fixes"
     items:
       - 'Bots named after top players now use the skin that player has equipped on their favorite weapon'
-      - 'A new kill streak announcement now cuts off the previous one instead of playing over it'
-      - 'Background sound removal for your mic is now always on'
       - 'New loading screen tips with pictures'
-      - 'Fixed players being able to walk up some walls'
