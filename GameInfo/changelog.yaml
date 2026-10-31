@@ -219,3 +219,13 @@
   - text: 'Fixed being unable to climb things you could climb before'
     sub:
       - 'Like the rocks in Frontier'
+
+"0.9.14":
+  - section: "Gunfight"
+    highlight: 'Guns and grenades stay locked for 1.5 seconds after the round-start countdown, so you can move off your spawn before anyone can shoot'
+    items: []
+  - section: "Improvements & Fixes"
+    items:
+      - '**Movement changes to stop players slipping through walls**, which should help with the known issues on Gustavo'
+      - 'You''re now told when you log in if your game is out of date and an update is available'
+      - 'Fixed the scoreboard team balance bars always showing 50/50'
